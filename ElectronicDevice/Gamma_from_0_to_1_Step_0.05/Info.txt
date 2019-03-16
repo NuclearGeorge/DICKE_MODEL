@@ -1,0 +1,47 @@
+Nonlinear Circuit 
+
+Parameters:
+w0=1
+w=1
+Gamma in (0,1) with steps 0.05
+
+Initial conditions:
+P0=0
+Q0=0
+p0=0
+q0=0
+
+Time series:
+Ch1-> P [Volts]
+Ch2-> Q [Volts]
+Ch3-> p [Volts]
+Ch4-> q [Volts]
+Time->Horizontal Scale [seconds]
+
+Time total: 300 seconds
+
+
+
+
+TEK00000 ->Gamma=0
+TEK00001 ->Gamma=0.05
+TEK00002 ->Gamma=0.1
+TEK00003 ->Gamma=0.15
+TEK00004 ->Gamma=0.2
+TEK00005 ->Gamma=0.25
+TEK00006 ->Gamma=0.3
+TEK00007 ->Gamma=0.35
+TEK00008 ->Gamma=0.4
+TEK00009 ->Gamma=0.45
+TEK00010 ->Gamma=0.5
+TEK00011 ->Gamma=0.55
+TEK00012 ->Gamma=0.6
+TEK00013 ->Gamma=0.65
+TEK00014 ->Gamma=0.7
+TEK00015 ->Gamma=0.75
+TEK00016 ->Gamma=0.8
+TEK00017 ->Gamma=0.85
+TEK00018 ->Gamma=0.9
+TEK00019 ->Gamma=0.95
+TEK00020 ->Gamma=1
+
